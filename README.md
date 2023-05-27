@@ -10,4 +10,6 @@ d.tkinter
 e.ttk
 f.pprint
 
+Click on the process info button in the output(GUI) which will the running process in the terminal.
+
 
